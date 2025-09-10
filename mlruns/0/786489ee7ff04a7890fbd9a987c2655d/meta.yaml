@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/cnn/mlruns/0/786489ee7ff04a7890fbd9a987c2655d/artifacts
+end_time: 1757511647812
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 786489ee7ff04a7890fbd9a987c2655d
+run_name: vaunted-moth-934
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511421146
+status: 3
+tags: []
+user_id: '2185206'

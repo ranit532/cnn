@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/cnn/mlruns/0/9be6226dcddd4f7e96b4fd43525078d2/artifacts
+end_time: 1757501550033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9be6226dcddd4f7e96b4fd43525078d2
+run_name: rogue-snipe-23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757501464985
+status: 3
+tags: []
+user_id: '2185206'

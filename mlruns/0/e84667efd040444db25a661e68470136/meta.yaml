@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/2185206/cnn/mlruns/0/e84667efd040444db25a661e68470136/artifacts
+end_time: 1757511140775
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e84667efd040444db25a661e68470136
+run_name: smiling-fowl-137
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1757511052510
+status: 3
+tags: []
+user_id: '2185206'

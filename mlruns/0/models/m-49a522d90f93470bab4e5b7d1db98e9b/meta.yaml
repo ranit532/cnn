@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/2185206/cnn/mlruns/0/models/m-49a522d90f93470bab4e5b7d1db98e9b/artifacts
+creation_timestamp: 1757511542350
+experiment_id: '0'
+last_updated_timestamp: 1757511647703
+model_id: m-49a522d90f93470bab4e5b7d1db98e9b
+model_type: null
+name: model
+source_run_id: 786489ee7ff04a7890fbd9a987c2655d
+status: 2
+status_message: null

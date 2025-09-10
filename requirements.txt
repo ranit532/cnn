@@ -1,7 +1,25 @@
-numpy
+# Core ML/DL Libraries
+torch
+torchvision
+torchaudio
+
+# Data Handling
 pandas
+numpy
 scikit-learn
+
+# Experiment Tracking
 mlflow
+
+# API/Serving
 fastapi
-uvicorn
-joblib
+uvicorn[standard]
+
+# Plotting & Image Handling
+matplotlib
+seaborn
+Pillow
+
+# Code Quality
+ruff
+black
